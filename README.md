@@ -24,4 +24,4 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 
 FearNixx Graphic Generator is a tool developed in TypeScript, which is used for the dynamic generation of logos and profile banners for social media. It was developed for the FearNixx gaming community.
 
-[FearNixx Graphic Generator](https://gitlab.com/JosunLP/fearnixx-logo-creator)
+[FearNixx Graphic Generator](https://gitlab.com/JosunLP/fearnixx-grafik-generator)
