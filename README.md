@@ -1,6 +1,6 @@
 # JosunLP Web Design / Development
 
-<img src="src/Logo-Jonas.png" alt="Logo" width="200px" height="auto" align="right" position="absolute">
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/Logo-Jonas.png" alt="Logo" width="200px" height="auto" align="right" position="absolute">
 
 ## Hey im Jonas ✌️ 👨‍💻
 
@@ -8,7 +8,7 @@ As a software developer, I mainly work on the basis of C # .NET, TypeScript, SAS
 
 ## My projects:
 
-<img src="src/waps.png" alt="Logo" width="500px" height="auto">
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="500px" height="auto">
 
 A PHP web app framework. It's designed to make small future projects faster and easier. The focus is on PHP backend systems and thanks to its modularity it supports a wide range of projects. This entire framework has emerged as a learning project and is being developed continuously.
 
@@ -16,7 +16,7 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 
 -----------------------------------
 
-<img src="src/fngg.png" alt="Logo" width="200px" height="auto" align="right">
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/fngg.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### FearNixx Graphic Generator
 
