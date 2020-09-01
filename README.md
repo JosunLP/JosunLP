@@ -33,3 +33,5 @@ FearNixx Graphic Generator is a tool developed in TypeScript, which is used for 
 ### Social graphics library
 
 Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
+
+[FearNixx Graphic Generator](https://github.com/JosunLP/Social-graphics-library)
