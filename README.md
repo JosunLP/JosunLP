@@ -35,3 +35,13 @@ FearNixx Graphic Generator is a tool developed in TypeScript, which is used for 
 Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
 
 [Social graphics library](https://github.com/JosunLP/Social-graphics-library)
+
+-----------------------------------
+
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="200px" height="auto">
+
+### WAPS Wordpress Plugin
+
+This project is based on the WAPS Framework and was created with the intention of minimizing the effort required to create new Wordpress plugins.
+
+-----------------------------------
