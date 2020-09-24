@@ -44,4 +44,6 @@ Social-graphics-library is the open source version of the FearNixx Graphic Gener
 
 This project is based on the WAPS Framework and was created with the intention of minimizing the effort required to create new Wordpress plugins.
 
+[WAPS Wordpress Plugin](https://gitlab.com/waps/spin-off-projects/basic-wordpress-plugin)
+
 -----------------------------------
