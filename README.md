@@ -9,10 +9,10 @@ As a software developer, I mainly work on the basis of C # .NET, TypeScript, SAS
 ## My projects:
 ___
 
-* [WAPS Framework](#WAPSFramework)
-* [FearNixx Graphic Generator](#FearNixxGraphicGenerator)
-* [Social graphics library](#Socialgraphicslibrary)
-* [WAPS Wordpress Plugin](#WAPSWordpressPlugin)
+* [WAPS Framework](#WAPS_Framework)
+* [FearNixx Graphic Generator](#FearNixx_Graphic_Generator)
+* [Social graphics library](#Social_graphics_library)
+* [WAPS Wordpress Plugin](#WAPS_Wordpress_Plugin)
 
 ___
 
