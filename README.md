@@ -38,7 +38,7 @@ Social-graphics-library is the open source version of the FearNixx Graphic Gener
 
 -----------------------------------
 
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="200px" height="auto" align="right">
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="300px" height="auto" align="right">
 
 ### WAPS Wordpress Plugin
 
