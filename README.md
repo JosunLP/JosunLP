@@ -27,6 +27,16 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 
 -----------------------------------
 
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
+
+### Social-graphics-library
+
+Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
+
+[Social graphics library](https://github.com/JosunLP/Social-graphics-library)
+
+-----------------------------------
+
 <img src="https://github.com/JosunLP/JosunLP/blob/master/src/fngg.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### FearNixx-Graphic-Generator
@@ -35,15 +45,6 @@ FearNixx Graphic Generator is a tool developed in TypeScript, which is used for 
 
 [FearNixx Graphic Generator](https://gitlab.com/JosunLP/fearnixx-grafik-generator)
 
------------------------------------
-
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
-
-### Social-graphics-library
-
-Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
-
-[Social graphics library](https://github.com/JosunLP/Social-graphics-library)
 
 -----------------------------------
 
