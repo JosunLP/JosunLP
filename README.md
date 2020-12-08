@@ -1,6 +1,6 @@
 # JosunLP Web Design / Development
 
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/octo-left.png" alt="Logo" width="200px" height="auto" align="right" position="absolute">
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
 
 ## Hey im Jonas ✌️ 👨‍💻
 
