@@ -33,7 +33,7 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 
 Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
 
-[Social graphics library](https://github.com/JosunLP/Social-graphics-library)
+[Social graphics library](http://social-graphics-library.net/)
 
 -----------------------------------
 
