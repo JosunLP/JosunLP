@@ -9,10 +9,14 @@ As a software developer, I mainly work on the basis of C # .NET, TypeScript, SAS
 ## My projects:
 ___
 
-* [WAPS Framework](#WAPS-Framework)
-* [FearNixx Graphic Generator](#FearNixx-Graphic-Generator)
-* [Social graphics library](#Social-graphics-library)
-* [WAPS Wordpress Plugin](#WAPS-Wordpress-Plugin)
+- [JosunLP Web Design / Development](#josunlp-web-design--development)
+  - [Hey im Jonas ✌️ 👨‍💻](#hey-im-jonas-️-)
+  - [My projects:](#my-projects)
+    - [WAPS-Framework](#waps-framework)
+    - [Social-graphics-library](#social-graphics-library)
+    - [FearNixx-Graphic-Generator](#fearnixx-graphic-generator)
+    - [WAPS-Wordpress-Plugin](#waps-wordpress-plugin)
+  - [Spenden via Bitcoin](#spenden-via-bitcoin)
 
 ___
 
@@ -55,5 +59,10 @@ FearNixx Graphic Generator is a tool developed in TypeScript, which is used for 
 This project is based on the WAPS Framework and was created with the intention of minimizing the effort required to create new Wordpress plugins.
 
 [WAPS Wordpress Plugin](https://gitlab.com/waps/spin-off-projects/basic-wordpress-plugin)
+
+-----------------------------------
+
+## Spenden via Bitcoin
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/bc-qr.png" alt="qr" width="300px" height="auto">
 
 -----------------------------------
