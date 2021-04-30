@@ -14,8 +14,7 @@ ___
   - [My projects:](#my-projects)
     - [Social-graphics-library](#social-graphics-library)    
     - [FearNixx-Graphic-Generator](#fearnixx-graphic-generator)
-    - [WAPS-Framework](#waps-framework)    
-    - [WAPS-Wordpress-Plugin](#waps-wordpress-plugin)
+    - [WAPS-Framework](#waps-framework)
   - [Spenden via Bitcoin](#spenden-via-bitcoin)
 
 ___
