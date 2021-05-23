@@ -19,7 +19,7 @@ ___
 
 ___
 
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="auto">
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### Social-graphics-library
 
