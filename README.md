@@ -12,10 +12,10 @@ ___
 - [JosunLP Web Design / Development](#josunlp-web-design--development)
   - [Hey im Jonas ✌️ 👨‍💻](#hey-im-jonas-️-)
   - [My projects:](#my-projects)
-    - [Social-graphics-library](#social-graphics-library)    
+    - [Social-graphics-library](#social-graphics-library)
     - [FearNixx-Graphic-Generator](#fearnixx-graphic-generator)
     - [WAPS-Framework](#waps-framework)
-  - [Spenden via Bitcoin](#spenden-via-bitcoin)
+  - [Spenden via Ko-fi](#spenden-via-ko-fi)
 
 ___
 
@@ -52,7 +52,7 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 
 -----------------------------------
 
-## Spenden via Bitcoin
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/bc-qr.png" alt="qr" width="300px" height="auto">
+## Spenden via [Ko-fi](https://ko-fi.com/JosunLP)
+<iframe src='https://ko-fi.com/josunlp/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='josunlp'></iframe>
 
 -----------------------------------
