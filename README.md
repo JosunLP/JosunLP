@@ -53,6 +53,15 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 -----------------------------------
 
 ## Spenden via [Ko-fi](https://ko-fi.com/JosunLP)
-<iframe src='https://ko-fi.com/josunlp/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='josunlp'></iframe>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('josunlp', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#d9534f',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
 
 -----------------------------------
