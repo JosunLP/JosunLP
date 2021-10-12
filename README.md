@@ -12,9 +12,10 @@ ___
 - [JosunLP Web Design / Development](#josunlp-web-design--development)
   - [Hey im Jonas ✌️ 👨‍💻](#hey-im-jonas-️-)
   - [My projects:](#my-projects)
-    - [Social-graphics-library](#social-graphics-library)
-    - [FearNixx-Graphic-Generator](#fearnixx-graphic-generator)
     - [WAPS-Framework](#waps-framework)
+    - [SecureFeed](#securefeed)
+    - [Corsify-proxy](#corsify-proxy)
+    - [Social-graphics-library](#social-graphics-library)
   - [Spenden via Ko-fi](#spenden-via-ko-fi)
 
 ___
