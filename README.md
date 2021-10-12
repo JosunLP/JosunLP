@@ -31,6 +31,27 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 
 -----------------------------------
 
+
+<img src="https://raw.githubusercontent.com/JosunLP/SecureFeed/main/src/assets/logo.png" alt="Logo" width="200px" height="auto" align="right">
+
+### SecureFeed
+
+SecureFeed is a simple slideshow application that regularly reads various Cyber Security RSS feeds and renders the content. It was designed to be placed as an info screen in companies, hackerspaces, and private environments.
+
+[SecureFeed](https://josunlp.gitlab.io/securefeed/)
+
+-----------------------------------
+
+<img src="https://raw.githubusercontent.com/JosunLP/Corsify-proxy/main/framework.src/content/img/fav.png" alt="Logo" width="200px" height="auto" align="right">
+
+### Corsify-proxy
+
+A simple Proxy API that adds CORS Headers to Atom and RSS Feeds
+
+[Corsify](https://github.com/JosunLP/Corsify-proxy)
+
+-----------------------------------
+
 <img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### Social-graphics-library
@@ -38,16 +59,6 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
 
 [Social graphics library](http://social-graphics-library.net/)
-
------------------------------------
-
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/fngg.png" alt="Logo" width="200px" height="auto" align="right">
-
-### FearNixx-Graphic-Generator
-
-FearNixx Graphic Generator is a tool developed in TypeScript, which is used for the dynamic generation of logos and profile banners for social media. It was developed for the FearNixx gaming community.
-
-[FearNixx Graphic Generator](https://gitlab.com/JosunLP/fearnixx-grafik-generator)
 
 -----------------------------------
 
