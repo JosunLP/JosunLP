@@ -56,5 +56,3 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbec633ae2b882fff068659_ko-fi_horizontal-p-500.png" alt="ko-fi" width="300px" height="auto">
 
 -----------------------------------
-
-<a href="https://app.daily.dev/JosunLP"><img src="https://api.daily.dev/devcards/f6cfd8f13c854752987f154e4f080d0f.png?r=ysk" width="400" alt="Jonas Pfalzgraf's Dev Card"/></a>
