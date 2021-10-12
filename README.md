@@ -19,6 +19,18 @@ ___
 
 ___
 
+<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="200px" height="auto" align="right">
+
+### WAPS-Framework
+
+A PHP web app framework. It's designed to make small future projects faster and easier. The focus is on PHP backend systems and thanks to its modularity it supports a wide range of projects. This entire framework has emerged as a learning project and is being developed continuously.
+
+The WebApp PHP Sample Framework, or WAPS Framework for short, originated from the intention to understand solid, self-written backend. Started as a learning project, it is constantly developing into a solid, completely open source PHP framework that can serve a wide variety of areas.
+
+[waps-framework.info](https://waps-framework.info/)
+
+-----------------------------------
+
 <img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### Social-graphics-library
@@ -36,19 +48,6 @@ Social-graphics-library is the open source version of the FearNixx Graphic Gener
 FearNixx Graphic Generator is a tool developed in TypeScript, which is used for the dynamic generation of logos and profile banners for social media. It was developed for the FearNixx gaming community.
 
 [FearNixx Graphic Generator](https://gitlab.com/JosunLP/fearnixx-grafik-generator)
-
-
------------------------------------
-
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="200px" height="auto" align="right">
-
-### WAPS-Framework
-
-A PHP web app framework. It's designed to make small future projects faster and easier. The focus is on PHP backend systems and thanks to its modularity it supports a wide range of projects. This entire framework has emerged as a learning project and is being developed continuously.
-
-The WebApp PHP Sample Framework, or WAPS Framework for short, originated from the intention to understand solid, self-written backend. Started as a learning project, it is constantly developing into a solid, completely open source PHP framework that can serve a wide variety of areas.
-
-[waps-framework.info](https://waps-framework.info/)
 
 -----------------------------------
 
