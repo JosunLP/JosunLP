@@ -14,6 +14,7 @@ ___
   - [My projects:](#my-projects)
     - [WAPS-Framework](#waps-framework)
     - [SecureFeed](#securefeed)
+    - [FNG-Status-Plugin](#fng-status-plugin)
     - [Corsify-proxy](#corsify-proxy)
     - [Social-graphics-library](#social-graphics-library)
   - [Spenden via Ko-fi](#spenden-via-ko-fi)
@@ -40,6 +41,16 @@ The WebApp PHP Sample Framework, or WAPS Framework for short, originated from th
 SecureFeed is a simple slideshow application that regularly reads various Cyber Security RSS feeds and renders the content. It was designed to be placed as an info screen in companies, hackerspaces, and private environments.
 
 [SecureFeed](https://josunlp.gitlab.io/securefeed/)
+
+-----------------------------------
+
+<img src="https://raw.githubusercontent.com/JosunLP/FNG-Status-Plugin/master/public/icons/icon128.png" alt="Logo" width="200px" height="auto" align="right">
+
+### FNG-Status-Plugin
+
+A simple Proxy API that adds CORS Headers to Atom and RSS Feeds
+
+[FNG-Status-Plugin](https://github.com/JosunLP/FNG-Status-Plugin)
 
 -----------------------------------
 
