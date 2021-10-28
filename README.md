@@ -1,6 +1,6 @@
 # JosunLP Web Design / Development
 
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
+<img src="https://github.com/JosunLP/JosunLP/blob/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
 
 ## Hey im Jonas ✌️ 👨‍💻
 
@@ -21,7 +21,7 @@ ___
 
 ___
 
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/waps.png" alt="Logo" width="200px" height="auto" align="right">
+<img src="https://github.com/JosunLP/JosunLP/blob/main/src/waps.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### WAPS-Framework
 
@@ -65,7 +65,7 @@ A simple Proxy API that adds CORS Headers to Atom and RSS Feeds
 
 -----------------------------------
 
-<img src="https://github.com/JosunLP/JosunLP/blob/master/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
+<img src="https://github.com/JosunLP/JosunLP/blob/main/src/sgl.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### Social-graphics-library
 
