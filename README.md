@@ -7,7 +7,7 @@
 
 ## Hey im Jonas ✌️ 👨‍💻
 
-As a software developer, I mainly work on the basis of C# .NET, TypeScript, SASS and PHP. However, I also train in Java and Kotlin. I work full-time for the CCVOSSEL GMBH.
+As a software developer, I mainly work on the basis of C# .NET, TypeScript, SASS and PHP. However, I also train in Java and Kotlin. Im in a full-time apprenticeship for the [CCVOSSEL GMBH](https://ccvossel.de).
 
 ## My projects:
 ___
