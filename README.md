@@ -72,7 +72,7 @@ A simple Proxy API that adds CORS Headers to Atom and RSS Feeds
 
 ### Social-graphics-library
 
-Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MIT license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
+Social-graphics-library is the open source version of the FearNixx Graphic Generator. Its build under MPL-2.0 license and can be adapted by everyone. The repository includes the afdesign and svg files to help costumize Forks.
 
 [Social graphics library](http://social-graphics-library.net/)
 
