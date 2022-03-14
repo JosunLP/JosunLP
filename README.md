@@ -1,6 +1,6 @@
 # JosunLP Web Design / Development
 
-![Language Badge](https://img.shields.io/badge/Languages-C%23%2C%20Typescript%2C%20Sass%2C%20PHP-green?style=for-the-badge)
+![Language Badge](https://img.shields.io/badge/Languages-C%23%2C%20Typescript%2C%20Sass%2C%20PHP%2C%20VueJs-green?style=for-the-badge)
 [![Website Badge](https://img.shields.io/badge/Website-JosunLP.de-blue?style=for-the-badge)](https://josunlp.de)
 
 <img src="https://github.com/JosunLP/JosunLP/blob/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
