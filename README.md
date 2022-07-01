@@ -78,6 +78,14 @@ Social-graphics-library is the open source version of the FearNixx Graphic Gener
 
 -----------------------------------
 
+### FriendlyHelper
+
+A Typescript-based standard library with handy little methods like GUID generation, retrieving numbers from strings, and a bunch of other standard methods that usually need to be rewritten for each new project. 
+
+[FriendlyHelper](https://github.com/JosunLP/FriendlyHelper)
+
+-----------------------------------
+
 ## Spenden via [Ko-fi](https://ko-fi.com/JosunLP)
 <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbec633ae2b882fff068659_ko-fi_horizontal-p-500.png" alt="ko-fi" width="300px" height="auto">
 
