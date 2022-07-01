@@ -20,6 +20,7 @@ ___
     - [FNG-Status-Plugin](#fng-status-plugin)
     - [Corsify-proxy](#corsify-proxy)
     - [Social-graphics-library](#social-graphics-library)
+    - [FriendlyHelper](#friendlyhelper)
   - [Spenden via Ko-fi](#spenden-via-ko-fi)
 
 ___
