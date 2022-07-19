@@ -46,7 +46,7 @@ ___
 
 The KeywordFinder is a project that arose from my vocational school thesis and is being further developed here open source. It is a tool to support text analysis, especially the analysis of tender texts.
 
-[KeywordFinder](keywordfinder.josunlp.de/#/)
+[KeywordFinder](https://keywordfinder.josunlp.de/#/)
 [GitHub](https://github.com/JosunLP/KeywordFinder)
 
 ___
