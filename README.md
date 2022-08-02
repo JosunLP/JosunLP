@@ -107,8 +107,13 @@ A Typescript-based standard library with handy little methods like GUID generati
 
 -----------------------------------
 
-## Spenden via [Ko-fi](https://ko-fi.com/JosunLP)
+## Donate via [Ko-fi](https://ko-fi.com/JosunLP)
 
 <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbec633ae2b882fff068659_ko-fi_horizontal-p-500.png" alt="ko-fi" width="300px" height="auto">
 
 ___
+
+## Metrics
+
+![Metrics](https://metrics.lecoq.io/JosunLP?template=classic&repositories=1&languages=1&pagespeed=1&lines=1&achievements=1&notable=1&code=1&isocalendar=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&code.lines=12&code.load=400&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.pinned=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FBerlin)
+
