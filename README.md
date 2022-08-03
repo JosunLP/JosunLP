@@ -7,6 +7,7 @@
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/108197741844625246?style=for-the-badge&label=Mastodon%20followers)](https://mastodon.social/web/@JosunLP)
 [![GitHub followers](https://img.shields.io/github/followers/josunlp?label=Github%20followers&style=for-the-badge)](https://github.com/JosunLP)
 ![](https://komarev.com/ghpvc/?username=josunlp&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-pfalzgraf/)
 
 <img src="https://raw.githubusercontent.com/JosunLP/JosunLP/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
 
