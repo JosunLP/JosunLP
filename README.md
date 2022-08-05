@@ -63,7 +63,7 @@ ___
 
 SecureFeed is a simple slideshow application that regularly reads various Cyber Security RSS feeds and renders the content. It was designed to be placed as an info screen in companies, hackerspaces, and private environments.
 
-[SecureFeed](https://josunlp.gitlab.io/securefeed/)
+[SecureFeed](https://securefeed.josunlp.de/#/)
 [GitHub](https://github.com/JosunLP/SecureFeed)
 
 ___
