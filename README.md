@@ -109,6 +109,8 @@ A Typescript-based standard library with handy little methods like GUID generati
 
 ___
 
+<img src="https://raw.githubusercontent.com/JosunLP/BrowserExtensionTemplate/main/src/assets/logo.png" alt="Logo" width="200px" height="auto" align="right">
+
 ### BrowserExtensionTemplate
 
 A basic template based on SASS and TypeScript to create browser extensions without directly relying on a larger framework.
