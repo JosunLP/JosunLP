@@ -2,6 +2,12 @@
 
 ![Language Badge](https://img.shields.io/badge/Languages-C%23%2C%20Typescript%2C%20Sass%2C%20PHP%2C%20VueJs-green?style=for-the-badge)
 [![Website Badge](https://img.shields.io/badge/Website-JosunLP.de-blue?style=for-the-badge)](https://josunlp.de)
+[![Twitch Status](https://img.shields.io/twitch/status/josunlp?style=for-the-badge)](https://www.twitch.tv/josunlp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JolunJonas?style=for-the-badge&label=Twitter%20followers)](https://twitter.com/JolunJonas)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/108197741844625246?style=for-the-badge&label=Mastodon%20followers)](https://mastodon.social/web/@JosunLP)
+[![GitHub followers](https://img.shields.io/github/followers/josunlp?label=Github%20followers&style=for-the-badge)](https://github.com/JosunLP)
+![](https://komarev.com/ghpvc/?username=josunlp&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-pfalzgraf/)
 
 <img src="https://raw.githubusercontent.com/JosunLP/JosunLP/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
 
@@ -57,7 +63,7 @@ ___
 
 SecureFeed is a simple slideshow application that regularly reads various Cyber Security RSS feeds and renders the content. It was designed to be placed as an info screen in companies, hackerspaces, and private environments.
 
-[SecureFeed](https://josunlp.gitlab.io/securefeed/)
+[SecureFeed](https://securefeed.josunlp.de/#/)
 [GitHub](https://github.com/JosunLP/SecureFeed)
 
 ___
@@ -102,8 +108,7 @@ A Typescript-based standard library with handy little methods like GUID generati
 
 -----------------------------------
 
-## Spenden via [Ko-fi](https://ko-fi.com/JosunLP)
+## Donate via [Ko-fi](https://ko-fi.com/JosunLP)
 
 <img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbec633ae2b882fff068659_ko-fi_horizontal-p-500.png" alt="ko-fi" width="300px" height="auto">
 
-___
