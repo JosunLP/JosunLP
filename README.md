@@ -15,6 +15,9 @@
 
 As a software developer, I mainly work on the basis of C# .NET, TypeScript, SASS and PHP.
 
+[![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=dracula)](https://github.com/josunlp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josunlp&layout=compact&theme=dracula)](https://github.com/josunlp/github-readme-stats)
+
 ## My projects
 
 ___
