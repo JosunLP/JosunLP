@@ -8,6 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/josunlp?label=Github%20followers&style=for-the-badge)](https://github.com/JosunLP)
 ![Views](https://komarev.com/ghpvc/?username=josunlp&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-pfalzgraf/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/josunlp)
 
 <img src="https://raw.githubusercontent.com/JosunLP/JosunLP/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
 
