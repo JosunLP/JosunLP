@@ -16,8 +16,9 @@
 
 As a software developer, I mainly work on the basis of C# .NET, TypeScript, SASS and PHP.
 
-[![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josunlp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josunlp&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## My projects
 
