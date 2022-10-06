@@ -20,6 +20,8 @@ As a software developer, I mainly work on the basis of C# .NET, TypeScript, SASS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josunlp&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=josunlp&theme=tokyonight&row=1&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## My projects
 
 ___
