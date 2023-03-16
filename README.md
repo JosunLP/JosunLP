@@ -9,6 +9,7 @@
 ![Views](https://komarev.com/ghpvc/?username=josunlp&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-pfalzgraf/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/josunlp)
+[![GitMoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge)](https://gitmoji.dev)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41KNGY)
 
 <img src="https://raw.githubusercontent.com/JosunLP/JosunLP/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
