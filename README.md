@@ -34,7 +34,6 @@ ___
     - [WAPS-Framework](#waps-framework)
     - [KeywordFinder](#keywordfinder)
     - [SecureFeed](#securefeed)
-    - [FNG-Status-Plugin](#fng-status-plugin)
     - [Corsify-proxy](#corsify-proxy)
     - [Social-graphics-library](#social-graphics-library)
     - [FriendlyHelper](#friendlyhelper)
@@ -75,17 +74,6 @@ SecureFeed is a simple slideshow application that regularly reads various Cyber 
 
 [SecureFeed](https://securefeed.josunlp.de/#/)
 [GitHub](https://github.com/JosunLP/SecureFeed)
-
-___
-
-<img src="https://raw.githubusercontent.com/JosunLP/FNG-Status-Plugin/master/public/icons/icon128.png" alt="Logo" width="200px" height="auto" align="right">
-
-### FNG-Status-Plugin
-
-This browser extension allows the user to show the status of the FearNixx Gaming services. This Chrome extension is for members of the FearNixx Gaming Community. It offers the possibility to query the current server status of all game and function servers. It also provides a contact form for direct communication with the FearNixx Gaming Community team. This extension informs the user about the current server status of our applications!
-
-[FNG-Status-Plugin](https://github.com/JosunLP/FNG-Status-Plugin)
-[GitHub](https://github.com/JosunLP/FNG-Status-Plugin)
 
 ___
 
