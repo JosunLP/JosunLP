@@ -42,6 +42,18 @@ ___
 
 ___
 
+<img src="https://raw.githubusercontent.com/JosunLP/ZDF-enable-pip/1.0.0/assets/icon.png" alt="Logo" width="200px" height="auto" align="right">
+
+### ZDF-enable-pip
+
+A smal userscript that enables picture in picture in the ZDF Mediathek
+
+Have fun with it.
+
+[GitHub](https://github.com/JosunLP/ZDF-enable-pip/)
+
+___
+
 <img src="https://raw.githubusercontent.com/JosunLP/JosunLP/main/src/waps.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### WAPS-Framework
