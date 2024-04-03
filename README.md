@@ -62,7 +62,7 @@ A PHP web app framework. It's designed to make small future projects faster and 
 
 The WebApp PHP Sample Framework, or WAPS Framework for short, originated from the intention to understand solid, self-written backend. Started as a learning project, it is constantly developing into a solid, completely open source PHP framework that can serve a wide variety of areas.
 
-[waps-framework.info](https://waps-framework.info/)
+[https://waps.josunlp.de/](https://waps.josunlp.de)
 [Github](https://github.com/WAPS-Project/WAPS-Framework)
 
 ___
