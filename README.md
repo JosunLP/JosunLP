@@ -78,7 +78,7 @@ The KeywordFinder is a project that arose from my vocational school thesis and i
 
 ___
 
-<img src="https://raw.githubusercontent.com/JosunLP/SecureFeed/main/src/assets/logo.png" alt="Logo" width="200px" height="auto" align="right">
+<img src="https://securefeed.josunlp.de/_app/immutable/assets/logo.453dd0af.png" alt="Logo" width="200px" height="auto" align="right">
 
 ### SecureFeed
 
