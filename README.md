@@ -1,6 +1,6 @@
 # JosunLP Web Design / Development
 
-![Language Badge](https://img.shields.io/badge/Languages-C%23%2C%20Typescript%2C%20Sass%2C%20PHP%2C%20VueJs-green?style=for-the-badge)
+![Language Badge](https://img.shields.io/badge/Languages-C%23%2C%20Typescript%2C%20Sass%2C%20PHP%2C%20VueJs%2C%20Svelte%2C%20React%2C%20Angular-green?style=for-the-badge)
 [![Website Badge](https://img.shields.io/badge/Website-JosunLP.de-blue?style=for-the-badge)](https://josunlp.de)
 [![Twitch Status](https://img.shields.io/twitch/status/josunlp?style=for-the-badge)](https://www.twitch.tv/josunlp)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JolunJonas?style=for-the-badge&label=Twitter%20followers)](https://twitter.com/JolunJonas)
