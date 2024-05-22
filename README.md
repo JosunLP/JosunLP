@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/JosunLP/JosunLP/main/src/octo-left.png" alt="Logo" width="300px" height="auto" align="right" position="absolute">
 
-## Hey im Jonas ✌️ 👨‍💻
+## Hey I'm Jonas ✌️ 👨‍💻
 
 As a software developer, I mainly work on the basis of C# .NET, TypeScript, SASS and PHP.
 
