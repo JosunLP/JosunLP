@@ -42,15 +42,15 @@ ___
 
 ___
 
-<img src="https://raw.githubusercontent.com/JosunLP/ZDF-enable-pip/1.0.0/assets/icon.png" alt="Logo" width="200px" height="auto" align="right">
+<img src="https://raw.githubusercontent.com/JosunLP/user-enable-pip/refs/heads/main/assets/icon.png" alt="Logo" width="200px" height="auto" align="right">
 
-### ZDF-enable-pip
+### user-enable-pip
 
-A smal userscript that enables picture in picture in the ZDF Mediathek
+A smal script that removes disable Flags from videos on websites. Followup script to the ZDF and crunchyroll one.
 
 Have fun with it.
 
-[GitHub](https://github.com/JosunLP/ZDF-enable-pip/)
+[GitHub](https://github.com/JosunLP/user-enable-pip/)
 
 ___
 
