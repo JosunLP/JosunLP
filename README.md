@@ -105,7 +105,7 @@ A modular PHP web framework designed for fast and easy development of small to m
 
 ### 🔍 KeywordFinder
 
-> **AI-Powered Text Analysis Tool**
+> **Static Text Analysis Tool**
 
 An intelligent tool to support text analysis, specifically for analyzing tender texts. Originally developed from my vocational school thesis and continues to be developed as an open-source project.
 
