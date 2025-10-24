@@ -23,7 +23,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=josunlp&style=for-the-badge&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/josunlp?label=Followers&style=for-the-badge&color=orange)
-[![GitMoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge)](https://gitmoji.dev)
 
 [![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,6 +50,7 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![GitMoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge)](https://gitmoji.dev)
 
 ### Backend & Database
 
