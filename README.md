@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-pfalzgraf/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/josunlp)
 [![Twitch](https://img.shields.io/twitch/status/josunlp?style=for-the-badge&logo=twitch)](https://www.twitch.tv/josunlp)
-[![Mastodon](https://img.shields.io/mastodon/follow/108197741844625246?style=for-the-badge&label=Mastodon&logo=mastodon)](https://chaos.social/web/@JosunLP)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/115203829086158181?domain=chaos.social&style=for-the-badge&logo=mastodon&label=mastodon)
 
 ### 📊 GitHub Stats
 
