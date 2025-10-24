@@ -25,6 +25,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/josunlp?label=Followers&style=for-the-badge&color=orange)
 [![GitMoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge)](https://gitmoji.dev)
 
+[![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ## 🚀 About Me
@@ -62,8 +64,6 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-[![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josunlp&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
