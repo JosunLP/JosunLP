@@ -16,6 +16,7 @@
 [![Twitch](https://img.shields.io/twitch/status/josunlp?style=for-the-badge&logo=twitch)](https://www.twitch.tv/josunlp)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/115203829086158181?domain=chaos.social&style=for-the-badge&logo=mastodon&label=mastodon)
 ![Bluesky followers](https://img.shields.io/bluesky/followers/josunlp.de?style=for-the-badge&logo=bluesky&label=BlueSky)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTKNAx8547-Jkp-3BoDFmNQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=red)
 
 ### 📊 GitHub Stats
 
