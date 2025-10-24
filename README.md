@@ -13,10 +13,11 @@
 [![Website](https://img.shields.io/badge/🌍_Website-JosunLP.de-blue?style=for-the-badge)](https://josunlp.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-pfalzgraf/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/josunlp)
-[![Twitch](https://img.shields.io/twitch/status/josunlp?style=for-the-badge&logo=twitch)](https://www.twitch.tv/josunlp)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/115203829086158181?domain=chaos.social&style=for-the-badge&logo=mastodon&label=mastodon)
-![Bluesky followers](https://img.shields.io/bluesky/followers/josunlp.de?style=for-the-badge&logo=bluesky&label=BlueSky)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTKNAx8547-Jkp-3BoDFmNQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=red)
+[![Twitch Status](https://img.shields.io/twitch/status/josunlp?style=for-the-badge&logo=twitch&logoColor=white&label=Twitch%20Live&labelColor=%239146FF)
+](https://www.twitch.tv/josunlp)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/115203829086158181?domain=chaos.social&style=for-the-badge&logo=mastodon&label=mastodon)](https://chaos.social/@JosunLP)
+[![Bluesky followers](https://img.shields.io/bluesky/followers/josunlp.de?style=for-the-badge&logo=bluesky&label=BlueSky)](https://bsky.app/profile/josunlp.de)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTKNAx8547-Jkp-3BoDFmNQ?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=red)](https://www.youtube.com/JosunLP)
 
 ### 📊 GitHub Stats
 
