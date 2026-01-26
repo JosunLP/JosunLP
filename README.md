@@ -89,23 +89,6 @@ A useful script that removes disabled Picture-in-Picture flags on websites. A fo
 
 ---
 
-### 🚀 WAPS-Framework
-
-> **PHP Web Application Framework**
-
-A modular PHP web framework designed for fast and easy development of small to medium-sized projects. Originally started as a learning project, it continues to evolve into a solid, fully open-source PHP framework.
-
-**✨ Features:**
-
-- 🔧 Modular Architecture
-- 📱 Responsive Design Support
-- 🔒 Security-Focused
-- 📚 Comprehensive Documentation
-
-**🔗 Links:** [Live Demo](https://waps.josunlp.de/) | [GitHub Repository](https://github.com/WAPS-Project/WAPS-Framework)
-
----
-
 ### 🛠️ bQuery.js
 
 > **The jQuery for the modern Web Platform.**
