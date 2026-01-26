@@ -106,23 +106,34 @@ A modular PHP web framework designed for fast and easy development of small to m
 
 ---
 
-### 🔍 KeywordFinder
+### 🛠️ bQuery.js
 
-> **Static Text Analysis Tool**
+> **The jQuery for the modern Web Platform.**
 
-An intelligent tool to support text analysis, specifically for analyzing tender texts. Originally developed from my vocational school thesis and continues to be developed as an open-source project.
+bQuery.js is a slim, TypeScript-first library that combines jQuery's direct DOM workflow with modern features like reactivity, Web Components, and motion utilities — without a mandatory build step.
 
-**🔗 Links:** [Live Demo](https://keywordfinder.josunlp.de/#/) | [GitHub Repository](https://github.com/JosunLP/KeywordFinder)
+**🔗 Links:** [GitHub Repository](https://github.com/bQuery/bQuery)
 
 ---
 
-### 📺 SecureFeed
+### 📺 Sort-it-now
 
-> **Cybersecurity RSS Feed Slideshow**
+> **3D Box Packing Optimizer**
 
-An elegant slideshow application that regularly reads various cybersecurity RSS feeds and displays the content. Perfect as an info screen in companies, hackerspaces, and private environments.
+An intelligent 3D packing optimization service with interactive visualization.
 
-**🔗 Links:** [Live Demo](https://securefeed.josunlp.de/#/) | [GitHub Repository](https://github.com/JosunLP/SecureFeed)
+**🔗 Links:** [GitHub Repository](https://github.com/JosunLP/sort-it-now)
+
+---
+
+### 🎨 QRify
+
+> **QR Code generation made easy**
+
+The most simple, privacy-first QR Code Generator you can find.
+No tracking. No login. No subscription.
+
+**🔗 Links:** [GitHub Repository](https://github.com/JosunLP/qr-code-generator)
 
 ---
 
@@ -133,26 +144,6 @@ An elegant slideshow application that regularly reads various cybersecurity RSS 
 A simple proxy API that adds CORS headers to Atom and RSS feeds. Solves cross-origin issues when integrating external feeds into web applications.
 
 **🔗 Links:** [GitHub Repository](https://github.com/JosunLP/Corsify-proxy)
-
----
-
-### 🎨 Social-graphics-library
-
-> **Open Source Graphics Generator**
-
-The open-source version of the FearNixx Graphic Generator. Available under MPL-2.0 license and customizable by anyone. Includes AfDesign and SVG files for easy customization.
-
-**🔗 Links:** [GitHub Organization](https://github.com/Social-graphics-library)
-
----
-
-### 🛠️ FriendlyHelper
-
-> **TypeScript Standard Library**
-
-A TypeScript-based standard library with useful methods like GUID generation, number extraction from strings, and many other standard methods that usually need to be rewritten for each new project.
-
-**🔗 Links:** [GitHub Repository](https://github.com/JosunLP/FriendlyHelper)
 
 ---
 
