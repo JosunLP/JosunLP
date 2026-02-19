@@ -24,8 +24,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=josunlp&style=for-the-badge&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/josunlp?label=Followers&style=for-the-badge&color=orange)
 
-[![JosunLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=josunlp&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ## 🚀 About Me
