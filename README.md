@@ -65,11 +65,7 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josunlp&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josunlp&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=josunlp&theme=tokyonight&row=2&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
