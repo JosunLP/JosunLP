@@ -34,7 +34,7 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
 
 ![C#](https://img.shields.io/badge/C%23-5E438F?style=for-the-badge&logo=csharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=black)
@@ -43,7 +43,7 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Frontend Technologies
+### Frontend Technologies & Frameworks
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
