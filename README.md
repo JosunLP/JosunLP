@@ -45,19 +45,19 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 
 ### Frontend Technologies & Frameworks
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 [![bQuery](https://img.shields.io/badge/bQuery-6AABD5?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIGNsaXAtcnVsZT0iZXZlbm9kZCIgdmlld0JveD0iMCAwIDUxMiA1MTIiPgogIDxwYXRoIGZpbGw9IiM0NzgwYTUiIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTcyIDQ2MSAzMCAwaDQ1MmwtNDIgNDYxLTE4NCA1MSIvPgogIDxwYXRoIGZpbGw9IiM2YWFiZDUiIGZpbGwtcnVsZT0ibm9uemVybyIgZD0iTTI1NiA0NzNWMzhoMTg0bC0zNSAzOTMiLz4KICA8cGF0aCBmaWxsPSIjNmFhYmQ1IiBkPSJNMTQyIDI4M3YtNGMtMTYtNzQgMC0xMzkgMzEtMTk5bDIxIDc3YzktNSAyMC0xMSAzMi0xMyAzMi05IDY3LTQgOTUgMTRhMTI0IDEyNCAwIDAgMSA0NyA3NGMxOSA3NCAyIDEzOC0zMSAxOTlsLTIxLTc3Yy0zOSAyNS04OSAyNC0xMjgtMmExNDUgMTQ1IDAgMCAxLTQ2LTY5Wm04Ny00Ny0xIDFjLTUgOC02IDE2LTUgMjQgMyA5IDkgMTUgMTUgMTkgOSA0IDE1IDYgMjMgMyA3LTEgMTMtNSAxOS0xMmwyIDQgMS0xYzQtOSA2LTE3IDMtMjVzLTctMTUtMTUtMTljLTctNC0xNS01LTIzLTItNiAxLTEyIDUtMTggMTJsLTEtNFoiLz4KICA8cGF0aCBmaWxsPSIjNDc4MGE1IiBkPSJNMjU2IDE0MGMyMyAwIDQ2IDYgNjUgMThhMTI0IDEyNCAwIDAgMSA0NyA3NGMxOSA3NCAyIDEzOC0zMSAxOTlsLTIxLTc3Yy0xOSAxMC0zOSAxNi02MCAxN3YtODdsNS0xYzctMSAxMy01IDE5LTEybDIgNCAxLTFjNC05IDYtMTcgMy0yNS00LTEzLTE2LTIzLTMwLTIzdi04NloiLz4KPC9zdmc+Cg==)](https://bquery.js.org)
 [![GitMoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge)](https://gitmoji.dev)
 
 ### Backend & Database
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 </div>
 
