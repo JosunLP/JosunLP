@@ -61,11 +61,7 @@ As a passionate **Full-Stack Developer**, I primarily work with modern technolog
 
 </div>
 
-## 📈 GitHub Analytics
-
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josunlp&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
